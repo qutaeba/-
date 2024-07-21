@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16236300450",
+    "project_id": "manager-b2c17",
+    "storage_bucket": "manager-b2c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16236300450:android:f8add7fedecb4ffb3aaffb",
+        "android_client_info": {
+          "package_name": "com.example.qubtan_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfam6Zkn8O5Irn6r7M3neotpexgW38jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
